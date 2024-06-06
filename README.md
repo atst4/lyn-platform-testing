@@ -21,6 +21,8 @@ erdpy contract test
 
 Note: Sometime when you are updating the contract interface, the build failed without rust error. Just remove the meta crate cache and re-build.
 
+
+
 ```sh
 rm -rf ./meta/target
 ```
